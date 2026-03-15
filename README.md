@@ -105,8 +105,5 @@ flutter:
     - assets/img.jpg
 ```
 
-## Screenshot
-
-
 
 
